@@ -1,0 +1,90 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0,
+        "KEY_TEMPERATUREF": 2
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "pebble@geekypanda.com",
+    "longName": "No trouble with tribbles",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/t11.png",
+                "name": "tribble11",
+                "type": "png"
+            },
+            {
+                "file": "images/t10.png",
+                "name": "tribble10",
+                "type": "png"
+            },
+            {
+                "file": "images/t09.png",
+                "name": "tribble09",
+                "type": "png"
+            },
+            {
+                "file": "images/t08.png",
+                "name": "tribble08",
+                "type": "png"
+            },
+            {
+                "file": "images/t07.png",
+                "name": "tribble07",
+                "type": "png"
+            },
+            {
+                "file": "images/t06.png",
+                "name": "tribble06",
+                "type": "png"
+            },
+            {
+                "file": "images/tribble05.png",
+                "name": "tribble05",
+                "type": "png"
+            },
+            {
+                "file": "images/tribble04.png",
+                "name": "tribble04",
+                "type": "png"
+            },
+            {
+                "file": "images/tribble03.png",
+                "name": "tribble03",
+                "type": "png"
+            },
+            {
+                "file": "images/tribble02.png",
+                "name": "tribble02",
+                "type": "png"
+            },
+            {
+                "file": "images/tribble01.png",
+                "name": "tribble01",
+                "type": "png"
+            },
+            {
+                "file": "fonts/arial.ttf",
+                "name": "font_arial_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/arial.ttf",
+                "name": "font_arial_18",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Tribbles",
+    "uuid": "47d3fdaa-4f6e-42e4-99cd-4b79b36555cb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
